@@ -1,0 +1,2 @@
+For this lab I provided the sample inputs dominos, google, amazon, and inside.ewu.edu in the bash file runlab2.sh.  all you need to do to run this lab is download the runlab2.sh file and the lab2.py file, compile them both then run the runlab2.sh file by calling 
+./runlab2.sh. it should display the api call with the domain name of the website being tested and then the detailed forecast for that websites server.
